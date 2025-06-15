@@ -1,15 +1,37 @@
-cd Desktop
-mkdir iris-flower-classification
-cd iris-flower-classification
-# Add your files inside this folder
+# 🌸 Iris Flower Classification - Data Science Internship Project
 
-# Initialize Git
-git init
-git add .
-git commit -m "Initial commit: Iris Flower Classification Project"
+This project is part of my Data Science Internship. It classifies iris flowers into three species — Setosa, Versicolor, and Virginica — using machine learning.
 
-# Link to your GitHub repo
-git remote add origin https://github.com/your-username/iris-flower-classification.git
-git branch -M main
-git push -u origin main# iris-flower-classification
-Machine Learning Project - Iris Flower Classification using Logistic Regression
+## 🚀 Features
+
+- Data exploration & visualization
+- Logistic Regression model
+- Accuracy and evaluation metrics
+- Confusion Matrix and Pairplot
+
+## 📊 Dataset
+
+- Built-in Scikit-learn Iris Dataset
+- 150 rows, 4 features: sepal length, sepal width, petal length, petal width
+- 3 classes: Setosa, Versicolor, Virginica
+
+## 📁 Files
+
+- `iris_classification.py` – Python script
+- `requirements.txt` – List of libraries
+- `images/` – Visual output files
+- `README.md` – Project explanation
+
+## 📈 Visuals
+
+### 🔹 Pairplot
+![Pairplot](images/pairplot.png)
+
+### 🔹 Confusion Matrix
+![Confusion Matrix](images/confusion_matrix.png)
+
+## 📦 Installation
+
+```bash
+pip install -r requirements.txt
+python iris_classification.py
