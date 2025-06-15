@@ -38,6 +38,6 @@ python iris_classification.py
 
 ## ✍️ Author
 
-**Priya Kumari**  
+Priya Kumari
 B.Sc. Botany (Hons), Marwari College, Ranchi  
 Aspiring Data Scientist
