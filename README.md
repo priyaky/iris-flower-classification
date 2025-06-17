@@ -36,7 +36,7 @@ This project is part of my Data Science Internship. It classifies iris flowers i
 pip install -r requirements.txt
 python iris_classification.py
 
-## ✍️ Author
+### ✍️ Author
 
 Priya Kumari
 B.Sc. Botany (Hons), Marwari College, Ranchi  
